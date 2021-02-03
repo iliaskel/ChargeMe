@@ -3,7 +3,7 @@ package com.example.chargeme
 import com.example.chargeme.data.databasedatasource.entity.VehicleEntity
 import com.example.chargeme.data.domainmodel.VehicleDomain
 import com.example.chargeme.data.remotedatasource.response.Current
-import com.example.chargeme.features.vehicles.model.VehicleUI
+import com.example.chargeme.features.vehicles.map.model.VehicleUI
 import kotlinx.coroutines.flow.flow
 
 val dummyVehiclesDomainList = listOf(

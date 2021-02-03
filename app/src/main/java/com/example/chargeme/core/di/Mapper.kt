@@ -6,8 +6,8 @@ import com.example.chargeme.data.domainmodel.VehicleDomain
 import com.example.chargeme.data.mapper.VehicleDTOToEntityMapper
 import com.example.chargeme.data.mapper.VehicleEntityToDomainMapper
 import com.example.chargeme.data.remotedatasource.response.Current
-import com.example.chargeme.features.vehicles.mapper.VehicleDomainToUIModelMapper
-import com.example.chargeme.features.vehicles.model.VehicleUI
+import com.example.chargeme.features.vehicles.map.mapper.VehicleDomainToUIModelMapper
+import com.example.chargeme.features.vehicles.map.model.VehicleUI
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

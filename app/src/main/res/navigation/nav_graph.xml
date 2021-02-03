@@ -6,7 +6,7 @@
     app:startDestination="@id/vehiclesMapsFragment">
     <fragment
         android:id="@+id/vehiclesMapsFragment"
-        android:name="com.example.chargeme.features.vehicles.view.VehiclesMapsFragment"
+        android:name="com.example.chargeme.features.vehicles.map.view.VehiclesMapsFragment"
         android:label="fragment_maps"
         tools:layout="@layout/fragment_maps" />
 </navigation>

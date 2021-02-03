@@ -1,7 +1,7 @@
 package com.example.chargeme.usecases
 
 import com.example.chargeme.emptyVehicleDomainFlowList
-import com.example.chargeme.features.vehicles.repository.VehiclesRepository
+import com.example.chargeme.features.vehicles.map.repository.VehiclesRepository
 import com.example.chargeme.vehicleDomainFlowList
 import io.mockk.MockKAnnotations
 import io.mockk.every

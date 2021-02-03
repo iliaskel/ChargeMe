@@ -1,7 +1,7 @@
 package com.example.chargeme.usecases
 
 import com.example.chargeme.data.domainmodel.VehicleDomain
-import com.example.chargeme.features.vehicles.repository.VehiclesRepository
+import com.example.chargeme.features.vehicles.map.repository.VehiclesRepository
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
